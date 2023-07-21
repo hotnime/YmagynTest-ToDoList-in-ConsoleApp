@@ -1,0 +1,8 @@
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+H:\Work\Ymagyn\2Variation\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
